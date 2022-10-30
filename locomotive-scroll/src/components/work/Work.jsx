@@ -10,24 +10,23 @@ const Work = () => {
         data-scroll-sticky
         data-scroll-target="#case-stick"
       >
-        CASE STUDIES <br />
-        Latest Works
+        Quotes
       </p>
 
       <Card
         image="https://www.patterns.dev/img/reactjs/react-logo@3x.svg"
-        title="Lorem Ipsum"
-        description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate"
+        title="My ninja way"
+        description="I won't run away anymore. I won't go back on my word. That is my ninja way!"
       />
       <Card
         image="https://www.patterns.dev/img/reactjs/react-logo@3x.svg"
-        title="Lorem Ipsum"
-        description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate"
+        title="Believe in yourself"
+        description="Hard work is worthless for those that don't believe in themselves."
       />
       <Card
         image="https://www.patterns.dev/img/reactjs/react-logo@3x.svg"
-        title="Lorem Ipsum"
-        description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate"
+        title="You're not a failure"
+        description="So shut up about destiny and how people can't change! Because unlike me, you're not a failure."
       />
     </section>
   );
